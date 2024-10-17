@@ -1,0 +1,2 @@
+.
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/zyr/yolo_ros/devel -DCMAKE_INSTALL_PREFIX=/home/zyr/yolo_ros/install -G Unix Makefiles

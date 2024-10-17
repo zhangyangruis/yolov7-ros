@@ -1,0 +1,7 @@
+Symlinking /home/zyr/yolo_ros/devel/share/roseus/ros/yolov7_ros/manifest.l
+Symlinking /home/zyr/yolo_ros/devel/share/yolov7_ros/cmake/yolov7_rosConfig-version.cmake
+Symlinking /home/zyr/yolo_ros/devel/share/yolov7_ros/cmake/yolov7_rosConfig.cmake
+Symlinking /home/zyr/yolo_ros/devel/share/yolov7_ros/cmake/yolov7_ros-msg-paths.cmake
+Symlinking /home/zyr/yolo_ros/devel/share/yolov7_ros/cmake/yolov7_ros-msg-extras.cmake
+Symlinking /home/zyr/yolo_ros/devel/lib/pkgconfig/yolov7_ros.pc
+Symlinking /home/zyr/yolo_ros/devel/lib/python2.7/dist-packages/yolov7_ros/__init__.py
